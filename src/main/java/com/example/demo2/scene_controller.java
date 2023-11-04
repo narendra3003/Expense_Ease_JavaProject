@@ -162,8 +162,8 @@ public class scene_controller implements Initializable {
             }
             if (signpass.length() < 8){
                 AlertConnector.Handle4();
-                passLabel1.setTextFill(Color.RED);
-                passLabel2.setTextFill(Color.RED);
+                passLabel1.setTextFill(Color.WHITE);
+                passLabel2.setTextFill(Color.WHITE);
                 return;
             }
             int flag =0;
@@ -175,8 +175,8 @@ public class scene_controller implements Initializable {
             }
             if (flag==0){
                 AlertConnector.Handle4();
-                passLabel1.setTextFill(Color.RED);
-                passLabel2.setTextFill(Color.RED);
+                passLabel1.setTextFill(Color.WHITE);
+                passLabel2.setTextFill(Color.WHITE);
                 return;
             }
             Class.forName("com.mysql.jdbc.Driver");
