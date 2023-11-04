@@ -24,7 +24,6 @@ public class App extends Application{
         primaryStage.setTitle("Expense Ease");
         primaryStage.setScene(scene);
         primaryStage.show();
-
     }
 
 
