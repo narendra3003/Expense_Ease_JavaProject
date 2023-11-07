@@ -6,7 +6,7 @@
   
   Expense Ease helps users to track all their transactions and be aware about their spending habits with the help of multiple tables and visualizable charts.
 
-### Features of Expense Ease are :-
+### Features of Expense Ease:-
 
 1) Expense Ease has features for entering, editing or deleting Transactions, Savings, Budget limits & Borrow/Lend information.
 2) The app displays Pie & Bar Chart based on the transactions made for every category.
