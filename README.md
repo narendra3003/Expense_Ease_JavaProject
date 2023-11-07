@@ -1,4 +1,4 @@
-# Sem-3 Mini Project using JavaFX & MySQL
+# Sem-3 Java Mini Project
 
   Expense Ease:  An expense tracker for users to manage their personal expenses and income.
 
@@ -14,11 +14,18 @@
 4) Budget tab helps user to limit their expenses categorywise about which the user would be reminded when their transactions exceed their set budget for a category.
 5) User-friendly & interactive User interface.
 
-### Team-Members contributed in this project :-
+### Tech Stack :-
+1) Frontend :- Scene Builder,  CSS
+   
+2) Backend :- Java, JavaFX Libraries
+   
+3) Database :- MySQL
+
+### Team Members that contributed in this project :-
 1) Narendra Dukhande
-
-2) Lenoy Geo Thomas
-
-3) Sanchita Warade
-
-4) Saifuddin Syed
+   
+3) Lenoy Geo Thomas
+   
+5) Sanchita Warade
+   
+7) Saifuddin Syed
