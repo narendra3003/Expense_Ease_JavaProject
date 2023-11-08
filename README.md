@@ -8,11 +8,13 @@
 
 ### Features of Expense Ease:-
 
-1) Expense Ease has features for entering, editing or deleting transactions, savings, budget limits & borrow/lend information.
+1) Expense Ease has CRUD (create, read, update, delete) features for transactions, savings, budget limits & borrow/lend information.
 2) The application displays Pie & Bar Charts based on the transactions made for every category.
-3) Savings and Borrow/Lend tabs keep the user reminded about the savings goals and the money user lent or borrowed.
-4) Budget tab helps user to limit their expenses categorywise about which the user would be reminded when their transactions exceed their set budget for a category.
-5) User-friendly & interactive user interface.
+3) Savings keep the user reminded about the savings goals.
+4) Borrow/Lend tabs and the money user lent or borrowed and will give exceeding Dues message.
+5) Budget tab helps user to limit their expenses categorywise about which the user would be reminded when their transactions exceed their set budget for a category.
+6) User-friendly & interactive user interface.
+7) Contains all Basic Features and Alert-Systems that an Market-app has
 
 ### Tech Stack :-
 1) Frontend :- Scene Builder,  CSS
